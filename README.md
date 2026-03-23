@@ -1,4 +1,4 @@
-# aws-3tier-architecture]
+# aws-3tier-architecture
 # AWS 3層Webアーキテクチャ構築
 
 ## ■ 概要
