@@ -14,13 +14,7 @@ AWS環境にて、VPC・EC2・RDS・ALBを用いた3層Webシステムを構築�
 
 ## ■ 構成図
 
-VPC
-├─ パブリックサブネット
-│   └─ ALB（ロードバランサ）
-│   └─ NAT Gateway
-├─ プライベートサブネット
-│   └─ EC2（Webサーバ）
-│   └─ RDS（DB）
+./blob/main/architecture1.png
 
 
 ## ■ 工夫点
