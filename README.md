@@ -16,6 +16,7 @@ AWS環境にて、VPC・EC2・RDS・ALBを用いた3層Webシステムを構築�
 
 ![構成図](./architecture1.png)
 
+※編集用ファイルは architecture.drawio を参照
 
 ## ■ 工夫点
 
@@ -40,6 +41,7 @@ AWS環境にて、VPC・EC2・RDS・ALBを用いた3層Webシステムを構築�
 
 ## ■ 今後の改善
 
-* Auto Scalingの導入
-* HTTPS対応（SSL/TLS）
-* CI/CDの導入
+* HTTPS対応
+* Route 53
+* ACM
+* 独自ドメイン
